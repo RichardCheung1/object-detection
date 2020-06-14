@@ -1,4 +1,1 @@
-
-
-
-# DarkN
+# Objection Detection with PyTorch DarkNet
